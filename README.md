@@ -27,7 +27,7 @@ Username : MOHIT
 Password : JAVA_PROJECT
 
 ## Screenshots
-![login-panel](https://ibb.co/Ng9yQHwy)
+![login-panel](https://i.ibb.co/SDt3W9q3/Screenshot-2025-04-04-at-5-12-57-PM.png)
 ![menu](https://i.ibb.co/Y7kn3cQ/2-menu.png)
 ![create-order](https://i.ibb.co/5c5vpwv/3-create-order.png)
 ![order-confirmation](https://i.ibb.co/qJgRYCL/4-order-confirmation.png)
