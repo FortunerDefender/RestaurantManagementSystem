@@ -6,6 +6,7 @@
 # Restaurant-Management-System
 WE HAVE CREATED THIS PROJECT TO HELP RESTAURANTS MANAGE THEIR ORDERS,ITEMS AND LABOURS.
 BY USING OUR PROJECT THEY HAVE THE FACILITY TO UPDATE THE REAL TIME AVAILABLE ITEMS AND PLACE ORDERS SIMULTANEOUSLY.
+
 ## Features !
  - Intuitive user interface
  - Desktop application
@@ -17,6 +18,9 @@ BY USING OUR PROJECT THEY HAVE THE FACILITY TO UPDATE THE REAL TIME AVAILABLE IT
     - Order Management
     - Labour Management
     - Billing Management
+  
+## Technologies
+Java & Java Swing
 
 ## How to edit this project ?
 Best way to open and edit the project is to use Netbeans IDE. It allows very easy way to modify the design (Drag and Drop)
@@ -25,6 +29,9 @@ Best way to open and edit the project is to use Netbeans IDE. It allows very eas
 
 Username : MOHIT
 Password : JAVA_PROJECT
+
+## Video
+![VideoTutorial](https://i.imgur.com/5BX6X4k.mp4)
 
 ## Screenshots
 ![login-panel](https://i.ibb.co/SDt3W9q3/Screenshot-2025-04-04-at-5-12-57-PM.png)
