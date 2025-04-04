@@ -30,9 +30,6 @@ Best way to open and edit the project is to use Netbeans IDE. It allows very eas
 Username : MOHIT
 Password : JAVA_PROJECT
 
-## Video
-![VideoTutorial](https://i.imgur.com/5BX6X4k.mp4)
-
 ## Screenshots
 ![login-panel](https://i.ibb.co/SDt3W9q3/Screenshot-2025-04-04-at-5-12-57-PM.png)
 ![menu](https://i.ibb.co/Y7kn3cQ/2-menu.png)
